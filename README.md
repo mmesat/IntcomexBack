@@ -2,7 +2,7 @@
 Ejercicio back para intcomex
 
 
-## Development server
+## Deployment server
 
 Esta pensado para usar bases de datos sql server, se debe ejecutar la migracion ya lista para ejecutar dentro de la carpeta de migraciones para generar la base de datos con las tablas, si no se desea usar motor de base de datos, en cambio usar base de datos en memoria, n oes necesario ejecutar la migración y descomentariar y coemntariar las lines indicadas en los archivos de Startup.cs y AplicationContext.cs.
 
